@@ -2,6 +2,9 @@
 <h3 align="center">Aspiring Data Scientist | Passionate about ML, DL, and NLP</h3>
 
 <p align="center">
+</p>
+
+<p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/008/903/061/non_2x/data-science-banner-concept-has-7-steps-to-analyze-such-as-big-data-classification-analyze-statistics-solving-decision-and-knowledge-to-to-extract-knowledge-from-structured-and-unstructured-data-vector.jpg" alt="Data Science Banner" width="800">
 </p>
 
